@@ -1,4 +1,4 @@
-# LógicaCa Quest
+# LogiCGame
 
 ## Membros da equipe
 - Maria Helena Loureiro (@helenaloureiro)
