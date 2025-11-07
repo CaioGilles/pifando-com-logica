@@ -13,7 +13,7 @@ Programação Imperativa e Funcional - 2025.2
 CESAR School
 
 ## Nome do jogo
-LógicaCa Quest
+LogiCGame
 
 ## Compilação e execução
 Para compilar o jogo, certifique-se de ter a biblioteca CLI-lib instalada em seu sistema. Navegue até a pasta `projeto` e utilize o comando `make` para compilar todos os arquivos fonte. O executável será gerado na pasta `build`.
